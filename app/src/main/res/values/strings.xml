@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">Composition Game</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="composition">Composition Game</string>
+    <string name="understood">Understood</string>
+    <string name="choose_your_level">Choose your level:</string>
+    <string name="test">test</string>
+    <string name="hard">Hard</string>
+    <string name="normal">Normal</string>
+    <string name="easy">Easy</string>
+    <string name="correct_answers">Correct answers</string>
+    <string name="your_score">Your score</string>
+    <string name="required_percentage">Required percentage</string>
+    <string name="score_percentage">Score perscentage</string>
+    <string name="try_again">Try again</string>
 </resources>
